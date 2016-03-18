@@ -1,4 +1,4 @@
-# Software Installation
+# Software installation
 
 To install the software you need, run the following commands in LXTerminal:
 
