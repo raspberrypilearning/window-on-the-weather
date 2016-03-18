@@ -35,7 +35,7 @@ Scratch 1.4 isn't able to communicate over the internet on it's own, so you're g
 
 4.  It's probably a good idea to save this file now. Call it `magic-window`
 
-5.  With Scratch all set up, you can now download this script.
+5.  With Scratch all set up, you can now download [this script](code/weather.py).
 
 6.  You can run this script by opening a terminal and typing:
 
