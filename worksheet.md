@@ -31,7 +31,7 @@ Scratch 1.4 isn't able to communicate over the internet on it's own, so you're g
 
 2.  Click on ![](images/screen10.png)
 
-3.  Then if you **right** click on the `slider sensor value` block you can select `enable remote sensor connections` from the context menu that appears.
+3.  Then if you **right** click on the `slider sensor value` block you can select `enable remote senzsor connections` from the context menu that appears.
 
 4.  It's probably a good idea to save this file now. Call it `magic-window`
 
@@ -77,8 +77,7 @@ You're going to need a few variables to get this project working.
 
 ![](images/screen9.png)
 
-Testing the API
----------------
+### Testing the API
 
 1.  Click on the `green flag` and then type in a city and country code in the dialogue box that appears. Cities should end with a comma. Country codes should be two-letter abbreviations and all in lowercase. There are some examples below:
 
@@ -170,3 +169,12 @@ From a Window.
 To finish off your program, you can add a new sprite in, designed to look like a window frame.
 
 ![](images/screen23.png)
+
+What next?
+----------
+
+-   There's lots you could do with this project.
+-   Why not try and add in some Physical computing, using LEDs to indicate if it is raining or not?
+-   Maybe you could change the backdrop in Scratch so that it matches the country or city that is being requested.
+-   You could try and investigate the Python script, and see what other weather data is available.
+
