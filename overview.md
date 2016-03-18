@@ -1,1 +1,1 @@
-In this resource you will make a something do a something so that your something can do something and use something to control the something.
+In this resource you will use Scratch to communicate with OpenWeatherMap, and get weather data for any city in the World. You can then use this data, to create a visualisation of the weather in that city.
