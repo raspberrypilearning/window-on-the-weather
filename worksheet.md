@@ -14,11 +14,11 @@ The first thing you'll have to do is get access to a **weather API**. *API* stan
 
 1.  Choose a username, type in your email address and then provide a password:
 
-    ![](images/screen3.png)
+    ![](images/screen2.png)
 
 1.  Once you are logged in, you should see a page with your **secret** API key. This is important, so copy it to your clipboard:
 
-![](images/screen4.png)
+![](images/screen3.png)
 
 ## A little help from Python
 
