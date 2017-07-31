@@ -1,0 +1,31 @@
+---
+title: A window on the weather
+hero_image: images/banner.png
+description: 'Create a magic window in Scratch so you can see what the weather is
+  like, anywhere in the world '
+original_url: https://raspberrypi.org/learning/window-on-the-weather
+theme: red
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+interests: ''
+technologies: rpi, physical computing, python
+site_areas: ''
+steps:
+- title: Introduction
+- title: What you will need
+- title: Window on the weather
+- title: Getting the weather
+- title: A little help from Python
+- title: A room with a view
+- title: The *variable* weather
+- title: Bring me sunshine
+- title: Little fluffy clouds
+- title: Blowin' in the wind
+- title: Wind of change
+- title: Make it rain
+- title: From a window
+- title: What next?
+
