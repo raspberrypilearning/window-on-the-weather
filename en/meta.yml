@@ -4,7 +4,7 @@ hero_image: images/banner.png
 description: 'Create a magic window in Scratch so you can see what the weather is
   like, anywhere in the world '
 original_url: https://raspberrypi.org/learning/window-on-the-weather
-theme: red
+theme: blue
 duration: 2
 listed: true
 ingredient: false
