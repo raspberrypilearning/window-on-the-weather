@@ -1,3 +1,5 @@
+**This is an archived resource.** The repo will remain available but the resource will no longer be maintained or updated. Some or all parts of the resource may no longer work. To see our latest resources, please visit [projects.raspberrypi.org](https://projects.raspberrypi.org).
+
 # Window on the weather
 
 ![](cover.png)
