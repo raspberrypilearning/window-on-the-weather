@@ -1,4 +1,4 @@
-**This is an archived resource.** The repo will remain available but the resource will no longer be maintained or updated. Some or all parts of the resource may no longer work. To see our latest resources, please visit [projects.raspberrypi.org](https://projects.raspberrypi.org).
+**This is an archived resource.** The [repository](https://github.com/raspberrypilearning/window-on-the-weather) will remain available but the resource will no longer be maintained or updated. Some or all parts of the resource may no longer work. To see our latest resources, please visit [projects.raspberrypi.org](https://projects.raspberrypi.org).
 
 ## What you will make
 In this resource, you will use Scratch to communicate with OpenWeatherMap and get weather data for any city in the world. You can then use this data to create a visualisation of the weather in that city.
